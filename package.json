@@ -36,6 +36,7 @@
     "gatsby-plugin-web-font-loader": "^1.0.4",
     "gatsby-source-filesystem": "^2.0.28",
     "gatsby-source-graphql": "^2.0.18",
+    "gatsby-source-silverstripe": "*",
     "gatsby-transformer-sharp": "^2.1.17",
     "git": "^0.1.5",
     "graphql": "^14.3.1",

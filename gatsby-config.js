@@ -91,9 +91,9 @@ module.exports = {
         importer: globImporter(),
       },
     },
-    {
-      resolve: 'gatsby-plugin-eslint',
-    },
+    // {
+    //   resolve: 'gatsby-plugin-eslint',
+    // },
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
 
@@ -115,12 +115,12 @@ module.exports = {
         // dataLayerName: 'YOUR_DATA_LAYER_NAME',
       },
     },
-    {
-      resolve: 'gatsby-source-silverstripe',
-      options: {
-        host: 'http://gatsby-cms.local',
-      },
-    },
+    // {
+    //   resolve: 'gatsby-source-silverstripe',
+    //   options: {
+    //     host: 'http://gatsby-cms.local',
+    //   },
+    // },
     {
       resolve: 'gatsby-plugin-web-font-loader',
       options: {

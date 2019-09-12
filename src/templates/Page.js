@@ -5,10 +5,10 @@
  * See: https://www.gatsbyjs.org/docs/static-query/
  */
 
-import React from 'react';
-import PropTypes from 'prop-types';
-import { StaticQuery, graphql } from 'gatsby';
-import { Helmet } from 'react-helmet';
+const React = require('react');
+const PropTypes = require('prop-types');
+const { StaticQuery, graphql } = require('gatsby');
+const { Helmet } = require('react-helmet');
 
 // import { Footer } from 'layouts';
 
